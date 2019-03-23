@@ -2,7 +2,7 @@
 
 ## Create Virtual Environment
 
-In a terminal run the following commands from the root folder of the forked project.
+In a terminal run the following commands from the root folder of the forked project. D
 
 ```
 python -m venv venv
